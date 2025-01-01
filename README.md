@@ -95,7 +95,7 @@ Female passengers had a higher survival probability across all categories.
 
 
 
-Visual Elements:
+### Visual Elements:
 
 1. Pie Chart: Highlights the gender distribution of passengers.
 
@@ -107,7 +107,7 @@ Visual Elements:
 
 
 
-Insights:
+### Insights:
 
 1. Females had significantly better chances of survival compared to males.
 
@@ -147,7 +147,7 @@ Wealthier passengers in higher classes had better survival odds.
 
 
 
-Visual Elements:
+### Visual Elements:
 
 1. Stacked Bar Chart: Displays survivors and non-survivors across all classes.
 
@@ -156,7 +156,7 @@ Visual Elements:
 
 
 
-Insights:
+### Insights:
 
 1. Passenger class played a major role in survival outcomes.
 
@@ -194,7 +194,7 @@ Males in lower classes faced the greatest survival challenges.
 
 
 
-Visual Elements:
+### Visual Elements:
 
 1. Clustered Bar Chart: Shows survival rates broken down by class.
 
@@ -203,7 +203,7 @@ Visual Elements:
 
 
 
-Insights:
+### Insights:
 
 1. Gender and class were interconnected factors influencing survival.
 
@@ -238,7 +238,7 @@ Male survival decreased sharply in older age groups.
 
 
 
-Visual Elements:
+### Visual Elements:
 
 1. Histogram: Depicts the age distribution of survivors and non-survivors.
 
@@ -247,7 +247,7 @@ Visual Elements:
 
 
 
-Insights:
+### Insights:
 
 1. Age was a decisive factor, with younger passengers having a better chance of survival.
 
