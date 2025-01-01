@@ -1,13 +1,13 @@
-Titanic Report
+### Titanic Report
 ---
-Purpose
+## Purpose
 
 This project aims to analyze the Titanic dataset to provide detailed insights into passenger survival rates and demographics. Through the use of interactive Power BI dashboards, the analysis delivers a structured view of critical metrics, patterns, and trends.
 
 
 ---
 
-Objectives
+ ## Objectives
 
 1. To conduct a detailed analysis of survival rates based on factors such as gender, passenger class (Pclass), and embarkation points.
 
@@ -22,14 +22,15 @@ Objectives
 
 ---
 
-Report Structure
+### Report Structure
 
-Page 1: Overview
 
-Description:
+### Page 1: Overview
+
+### Description:
 This page provides a comprehensive summary of passenger demographics and survival details. It highlights key figures and trends at a high level.
 
-Key Points:
+### Key Points:
 
 1. Total Passengers Analyzed: 857,000.
 
@@ -51,7 +52,7 @@ Queenstown: Fewer passengers embarked here compared to other locations.
 
 
 
-Visual Elements:
+### Visual Elements:
 
 1. Doughnut Chart: Displays the percentage distribution of passengers by embarkation points.
 
@@ -60,7 +61,7 @@ Visual Elements:
 
 
 
-Insights:
+### Insights:
 
 1. Most passengers boarded from Southampton, forming the majority.
 
@@ -72,12 +73,12 @@ Insights:
 
 ---
 
-Page 2: Percentage Distribution
+### Page 2: Percentage Distribution
 
-Description:
+### Description:
 This page focuses on the distribution of passengers by gender and emphasizes survival patterns among males and females.
 
-Key Points:
+### Key Points:
 
 1. Passenger Distribution by Gender:
 
@@ -118,12 +119,12 @@ Insights:
 
 ---
 
-Page 3: Survived & Non-Survived
+### Page 3: Survived & Non-Survived
 
-Description:
+### Description:
 This page explores the relationship between passenger survival rates, gender, and passenger class.
 
-Key Points:
+### Key Points:
 
 1. Survival Based on Passenger Class:
 
@@ -167,12 +168,12 @@ Insights:
 
 ---
 
-Page 4: Comparison
+### Page 4: Comparison
 
-Description:
+### Description:
 This page delves into comparative insights, highlighting survival rates across multiple dimensions such as gender and passenger class.
 
-Key Points:
+### Key Points:
 
 1. Class Survival Rates:
 
@@ -213,12 +214,12 @@ Insights:
 
 ---
 
-Page 5: Analysis
+### Page 5: Analysis
 
-Description:
+### Description:
 This page provides a deeper look into the impact of age and gender on survival. It focuses on age distribution across survivors and non-survivors.
 
-Key Points:
+### Key Points:
 
 1. Age Distribution:
 
